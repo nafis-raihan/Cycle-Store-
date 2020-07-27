@@ -1,0 +1,12 @@
+Giant
+Talon
+MTB
+60000
+Trek
+Remedy
+MTB
+300000
+Scott
+Spark_700
+XC
+150000
